@@ -1,4 +1,5 @@
 # Predicting Customer Satisfaction for Future Purchases (MLOps)
+![Customer-Satisfaction-MLOps-Thumbnail](./Assets/customer_pipeline.jpg)
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/) [![MLflow](https://img.shields.io/badge/MLflow-v2.0.0-brightgreen.svg)](https://mlflow.org/) [![ZenML](https://img.shields.io/badge/ZenML-v0.20.0-orange.svg)](https://zenml.io/)
 
